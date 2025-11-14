@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I work with Python, C, HTML, CSS, and JavaScript, focusing on automation, algorithms, web development, and pasionate about cybersecurity . I’ve built several websites and I’m currently developing Python projects that sharpen my problem-solving and engineering skills. Serious, driven, and always improving.
+I work with Python, C, HTML, CSS, and JavaScript, focusing on automation, algorithms, web development, and passionate about cybersecurity . I’ve built several websites and I’m currently developing Python projects that sharpen my problem-solving and engineering skills. Serious, driven, and always improving.
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [ahmedademdjeffal@gmail.com](mailto:ahmedademdjeffal@gmail.com)
