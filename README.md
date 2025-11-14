@@ -10,7 +10,7 @@ I work with Python, C, HTML, CSS,  focusing on automation, algorithms, web devel
 * ✉️  You can contact me at [ahmedademdjeffal@gmail.com](mailto:ahmedademdjeffal@gmail.com)
 * 🧠  I'm currently learning Advanced Python, and Terminal Command
 * 👥  I'm looking to collaborate on Interesting and Serious Project
-* ✨ Secret !✨ i'm secretly a SuperHero .. but PLEASEEE DON'T TELL ANYONE !!
+* ✨  I'm secretly a SuperHero .. but PLEASEEE DON'T TELL ANYONE !!
 <br>
  <h1>Top Languages</h1>
 <p align="left"  >
